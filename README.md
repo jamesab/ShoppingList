@@ -2,10 +2,13 @@
 ## React Native App
 [React Native Getting Started](https://reactnative.dev/docs/getting-started)
 
+# React Native CLI
+npm -i -g react-native-cli
+
 # Android
 Run command:
-npx react-native run-android
+react-native run-android
 
 # iOS
 Run command:
-npmx react-native run-ios
+react-native run-ios
