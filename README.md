@@ -17,4 +17,4 @@ react-native run-android
 
 # iOS
 Run command:
-react-native run-ios
+react-native run-ios --simulator="iPhone 11"
